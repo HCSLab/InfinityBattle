@@ -1,0 +1,101 @@
+{
+  "build": "py37_1001",
+  "build_number": 1001,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.7,<3.8.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Harli\\Anaconda3\\pkgs\\six-1.12.0-py37_1001",
+  "features": "",
+  "files": [
+    "Lib/site-packages/__pycache__/six.cpython-37.pyc",
+    "Lib/site-packages/six-1.12.0.dist-info/INSTALLER",
+    "Lib/site-packages/six-1.12.0.dist-info/LICENSE",
+    "Lib/site-packages/six-1.12.0.dist-info/METADATA",
+    "Lib/site-packages/six-1.12.0.dist-info/RECORD",
+    "Lib/site-packages/six-1.12.0.dist-info/WHEEL",
+    "Lib/site-packages/six-1.12.0.dist-info/top_level.txt",
+    "Lib/site-packages/six.py",
+    ".nonadmin"
+  ],
+  "fn": "six-1.12.0-py37_1001.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\Harli\\Anaconda3\\pkgs\\six-1.12.0-py37_1001",
+    "type": 1
+  },
+  "md5": "cb8e192cba406a55400658328a9afa12",
+  "name": "six",
+  "package_tarball_full_path": "C:\\Users\\Harli\\Anaconda3\\pkgs\\six-1.12.0-py37_1001.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/__pycache__/six.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "de60b33cbe4e28295baa04018a0e2568fa7ae8dbe01429aa98b4c80abad8075c",
+        "sha256_in_prefix": "de60b33cbe4e28295baa04018a0e2568fa7ae8dbe01429aa98b4c80abad8075c",
+        "size_in_bytes": 26346
+      },
+      {
+        "_path": "Lib/site-packages/six-1.12.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/six-1.12.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "e732f54da58f3e9cf0c48e8b512948936fcf7361bd58afa63a9a3c392bf794ad",
+        "sha256_in_prefix": "e732f54da58f3e9cf0c48e8b512948936fcf7361bd58afa63a9a3c392bf794ad",
+        "size_in_bytes": 1066
+      },
+      {
+        "_path": "Lib/site-packages/six-1.12.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "09175890a3ca08526befea80f0f0e90649465df5c9df1bb89aee6d90b0432f4e",
+        "sha256_in_prefix": "09175890a3ca08526befea80f0f0e90649465df5c9df1bb89aee6d90b0432f4e",
+        "size_in_bytes": 1940
+      },
+      {
+        "_path": "Lib/site-packages/six-1.12.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "d852d76564f870407356c222d1372d8deda440f8e21c11fd763a1f5f00d803b1",
+        "sha256_in_prefix": "d852d76564f870407356c222d1372d8deda440f8e21c11fd763a1f5f00d803b1",
+        "size_in_bytes": 560
+      },
+      {
+        "_path": "Lib/site-packages/six-1.12.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "2595ed61ea5916c7f82288af3699d280a21ce2a4c76a7d3c0d1779ea4a28fc33",
+        "sha256_in_prefix": "2595ed61ea5916c7f82288af3699d280a21ce2a4c76a7d3c0d1779ea4a28fc33",
+        "size_in_bytes": 116
+      },
+      {
+        "_path": "Lib/site-packages/six-1.12.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "fe2547fe2604b445e70fc9d819062960552f9145bdb043b51986e478a4806a2b",
+        "sha256_in_prefix": "fe2547fe2604b445e70fc9d819062960552f9145bdb043b51986e478a4806a2b",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "Lib/site-packages/six.py",
+        "path_type": "hardlink",
+        "sha256": "87d8dc876a52f3acb8477ea92914b72ce61409514d209311c236787c90ed278e",
+        "sha256_in_prefix": "87d8dc876a52f3acb8477ea92914b72ce61409514d209311c236787c90ed278e",
+        "size_in_bytes": 32452
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "d73c36a8ea2a9f36169a096332c595dea231fcdf7d4181f5a2be866e8f3c1889",
+  "size": 22599,
+  "subdir": "win-64",
+  "timestamp": 1572704993355,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/six-1.12.0-py37_1001.tar.bz2",
+  "version": "1.12.0"
+}

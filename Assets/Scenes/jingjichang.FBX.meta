@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 107e182c3fedb504bbc7755f89beec95
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Combined_Mesh__root__scene_
+    100002: Combined_Mesh__root__scene__2
+    100004: //RootNode
+    100006: Object03
+    400000: Combined_Mesh__root__scene_
+    400002: Combined_Mesh__root__scene__2
+    400004: //RootNode
+    400006: Object03
+    2100000: _Combined Mesh (root scene) 2Combined_Mesh__root__scene__2_0
+    2100002: _Combined Mesh (root scene) 2Combined_Mesh__root__scene__2_1
+    2100004: _Combined Mesh (root scene) 2Combined_Mesh__root__scene__2_2
+    2100006: _Combined Mesh (root scene) 2Combined_Mesh__root__scene__2_3
+    2100008: _Combined Mesh (root scene) 2Combined_Mesh__root__scene__2_4
+    2100010: _Combined Mesh (root scene) 2Combined_Mesh__root__scene__2_5
+    2100012: _Combined Mesh (root scene) 2Combined_Mesh__root__scene__2_6
+    2100014: _Combined Mesh (root scene) 2Combined_Mesh__root__scene__2_7
+    2100016: _Combined Mesh (root scene) 2Combined_Mesh__root__scene__2_8
+    2100018: _Combined Mesh (root scene) 2Combined_Mesh__root__scene__2_9
+    2100020: _Combined Mesh (root scene) 2Combined_Mesh__root__scene__2_10
+    2100022: _Combined Mesh (root scene) 2Combined_Mesh__root__scene__2_11
+    2100024: _Combined Mesh (root scene) 2Combined_Mesh__root__scene__2_12
+    2100026: _Combined Mesh (root scene) 2Combined_Mesh__root__scene__2_13
+    2100028: 'Material #101'
+    2100030: 'Material #100'
+    2300000: Combined_Mesh__root__scene_
+    2300002: Combined_Mesh__root__scene__2
+    2300004: Object03
+    3300000: Combined_Mesh__root__scene_
+    3300002: Combined_Mesh__root__scene__2
+    3300004: Object03
+    4300000: Combined_Mesh__root__scene__2
+    4300002: Combined_Mesh__root__scene_
+    4300004: Object03
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #100'
+    second: {fileID: 2100000, guid: 749d743b41d4e774d85da70445bb5e62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #101'
+    second: {fileID: 2100000, guid: 96509ee4b3cbe874f802e60a24f6e312, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Combined Mesh (root scene) 2Combined_Mesh__root__scene__2_0
+    second: {fileID: 2100000, guid: 248fd3c76e3becf4eab4813707b85f07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Combined Mesh (root scene) 2Combined_Mesh__root__scene__2_1
+    second: {fileID: 2100000, guid: aff26be782fd3094a85b6966b073003b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Combined Mesh (root scene) 2Combined_Mesh__root__scene__2_10
+    second: {fileID: 2100000, guid: b0373133468dd7448a80e471c8a263a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Combined Mesh (root scene) 2Combined_Mesh__root__scene__2_11
+    second: {fileID: 2100000, guid: 9b1413081b26c7441a900ad53a1cd8cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Combined Mesh (root scene) 2Combined_Mesh__root__scene__2_12
+    second: {fileID: 2100000, guid: c99c5afc4cb77bf4cb4641e4f82800b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Combined Mesh (root scene) 2Combined_Mesh__root__scene__2_13
+    second: {fileID: 2100000, guid: 7b65923bd90ea4e40917404eefc77fb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Combined Mesh (root scene) 2Combined_Mesh__root__scene__2_2
+    second: {fileID: 2100000, guid: de4d1c43cc924324f94a79fdf5b5a88f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Combined Mesh (root scene) 2Combined_Mesh__root__scene__2_3
+    second: {fileID: 2100000, guid: 98273d389ccee094b828e5ea70025684, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Combined Mesh (root scene) 2Combined_Mesh__root__scene__2_4
+    second: {fileID: 2100000, guid: d2fbc2a6efabc0f4fbebf72e5b099fe5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Combined Mesh (root scene) 2Combined_Mesh__root__scene__2_5
+    second: {fileID: 2100000, guid: 81319ee7ef182a342883c70379afb454, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Combined Mesh (root scene) 2Combined_Mesh__root__scene__2_6
+    second: {fileID: 2100000, guid: 7722a319e66a2ff4098fe00bb2ab6a88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Combined Mesh (root scene) 2Combined_Mesh__root__scene__2_7
+    second: {fileID: 2100000, guid: 92fbce8169c0a6249b4e82574e7f3b1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Combined Mesh (root scene) 2Combined_Mesh__root__scene__2_8
+    second: {fileID: 2100000, guid: 4150f3242c7c27e488dedb8f41f29d0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Combined Mesh (root scene) 2Combined_Mesh__root__scene__2_9
+    second: {fileID: 2100000, guid: 6c742cc053d449549927fbf0568409d9, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jingjichang_A
+    second: {fileID: 2800000, guid: 6f55c5403388b1945aa29c338877e130, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jingjichang_B
+    second: {fileID: 2800000, guid: 5a2e26bdca17ba54786db454f562fe34, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jingjichang_Railing_C
+    second: {fileID: 2800000, guid: 5abfe38b60a346246970be1b8c7a5700, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 2
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
